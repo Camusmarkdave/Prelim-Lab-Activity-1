@@ -1,1 +1,7 @@
-/* You can add global styles to this file, and also import other style files */
+/* GLOBAL*/
+body {
+  background: #E9E2D8; /* soft beige */
+  font-family: 'Merriweather', Georgia, serif; /* formal serif font */
+  color: #3B2716;
+}
+
